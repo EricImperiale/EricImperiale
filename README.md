@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Eric. I'm a Junior PHP Developer. 
+
+I'm from Argentina, and currently looking for a job in order to put my skills into practice. 
+
