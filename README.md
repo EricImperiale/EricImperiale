@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 
 <!--
 **EricImperiale/EricImperiale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Eric. I'm a Junior PHP Developer. 
 
-I'm from Argentina, and currently looking for a job in order to put my skills into practice. 
+Soy Eric! Soy de Argentina, Buenos Aires y soy programador Junior PHP. 
+
+Soy estudiante de diseño y programación web en Escuela Da Vinci.
 
