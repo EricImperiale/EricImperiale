@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Soy Eric! Soy de Argentina, Buenos Aires y soy programador Junior PHP. 
+Soy Eric! Soy de Argentina, Buenos Aires.
 
-Soy estudiante de diseño y programación web en Escuela Da Vinci.
+Actualmente, estoy cursando mi último cuatrimestre de la carrera de diseño y programación web, en la escuela Da Vinci. 
 
