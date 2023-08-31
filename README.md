@@ -5,5 +5,5 @@
 - 📆 Planeo completar mi carrera a fin de mes.
 - 🚀 Practico y mejoro constantemente mis habilidades en Laravel.
 - 💡 Siempre en busca de mejorar mis habilidades en Laravel y PHP.
-- 🔍 Actualmente explorando tecnologías como React.js y Vue.js.
+- 🔍 Actualmente explorando tecnologías como Laravel Livewire, React.js y Vue.js.
 - 🌎 Inglés.
